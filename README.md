@@ -50,4 +50,4 @@ Collectible pins from:
 - Add a collection counter
 - implement a contact page
 
-[Visit the docs folder](docs/)
+[Visit the docs folder](docs/)          [Live Website](https://jjsanc.github.io/Project-03/)         

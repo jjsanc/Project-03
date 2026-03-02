@@ -50,6 +50,21 @@ Collectible pins from:
 - Add a collection counter
 - implement a contact page
 
+---
+## Success Criteria
+- Collection remains organized and properly preserved
+- Items maintain goog to excellent condition
+- The collection reflects the owner's personal interests and goals
+
+## Notes
+All acquisitions are intedned strictly for personal collection and enjoyment.
+
+---
+
+## License
+
+This project documentation is for personal use.
+
 [Visit the docs folder](docs/)         
 
 [Live Website](https://jjsanc.github.io/Project-03/)         
